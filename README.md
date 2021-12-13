@@ -4,7 +4,7 @@
 
 # :blue_book: Tabela IMC
 
-![](Assets/imc.gif)
+![](assets/imc.gif)
 
 
 ## Sobre o projeto
