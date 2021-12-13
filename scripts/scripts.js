@@ -57,7 +57,7 @@ function calcIMC (altura, peso) {
         text = `Seu IMC é ${imc.toFixed(2)} (Sobrepeso)`;
     } else if (imc < 34.9) {
         text = `Seu IMC é ${imc.toFixed(2)} (Obesidade grau 1)`;
-    } else if (imc < 39) {
+    } else if (imc < 39.9) {
         text = `Seu IMC é ${imc.toFixed(2)} (Obesidade grau 2)`;
     } else if (imc > 40) {
         text = `Seu IMC é ${imc.toFixed(2)} (Obesidade grau 3)`;
