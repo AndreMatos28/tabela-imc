@@ -7,6 +7,8 @@
 ![](assets/imc.gif)
 
 
+## Acesse aqui https://andrematos28.github.io/tabela-imc/
+
 ## Sobre o projeto
 
 ---
